@@ -1,6 +1,6 @@
 src/__pycache__
 \.env
-env
+\env
 src/test.py
 src/test.ipynb
 

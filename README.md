@@ -7,13 +7,13 @@ This project is a multi-agent system designed to streamline the hiring process b
 ## Table of Contents
 1. [Overview](#overview)
 2. [Agents in the System](#agents-in-the-system)
-4. [Usage Instructions](#usage-instructions)
-5. [Example Execution](#example-execution)
-6. [Database Management](#database-management)
-7. [Text Files](#text-files)
-8. [Dependencies](#dependencies)
-9. [Contributing](#contributing)
-10. [License](#license)
+3. [Usage Instructions](#usage-instructions)
+4. [Example Execution](#example-execution)
+5. [Database Management](#database-management)
+6. [Text Files](#text-files)
+7. [Dependencies](#dependencies)
+8. [Dataset](#dataset)
+9. [License](#license)
 
 ---
 
@@ -127,8 +127,4 @@ pip install -r requirements.txt
 The dataset utilized in this project is provided by **Hack the Future: A Gen AI Sprint Powered by Data**, a hackathon hosted collaboratively by Accenture and GeeksforGeeks. 
 
 ## License
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-
----
-
-For any questions or issues, please open an issue in the repository or contact the maintainers.
+This project is licensed under the **Apache License**. See the [LICENSE](LICENSE) file for details.
